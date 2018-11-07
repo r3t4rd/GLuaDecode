@@ -6,7 +6,7 @@
 [![netver](https://img.shields.io/badge/.NET_version-4.5-38bbff.svg?style=for-the-badge)](https://github.com/r3t4rd/GLuaDecode)
 [![platform](https://img.shields.io/badge/platform-Windows-ff3875.svg?style=for-the-badge)](https://github.com/r3t4rd/GLuaDecode)
 
-Garry's mod .lua files. GLuaDecode is a simple C # app to decode, encode, obfuscate.
+GLuaDecode is a simple C # app to decode, encode, obfuscate Garry's mod .lua files. 
 
 ### Features:
 - Decode LZMA compressed .lua files
