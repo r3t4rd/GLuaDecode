@@ -12,13 +12,13 @@ GLuaDecode is a simple C # app to decode, encode, obfuscate Garry's mod .lua fil
 - Simple obfuscator
 
 ## FAQ:
-### What does decode and encode do?
+### What decode and encode does?
 GLuaDecode able to decode LZMA compressed Garry's mod .lua cache.
 Btw, it able to encode it too.
 
 ### What obfuscator does?
-Transform your original .lua translate your code.
-The result of the original code will be the exact functionality of the original code.
+Tranform your original .lua code to something hard to understand and usually unreadable.
+But the obfuscated code will be exact functionality of the original code.
 
 ### How does it works?
 Obfuscation is a ton of original code transformation: functions, arguments, vars renaming, string hexadecimal, etc.
