@@ -1,4 +1,4 @@
-![gluadecode](preview.png)
+![gluadecode](preview2.png)
 # GLuaDecode
 ## LZMA Compressed gmod .lua files decoder
 
