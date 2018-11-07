@@ -1,11 +1,8 @@
 ![gluadecode](preview2.png)
 # GLuaDecode
-## LZMA Compressed gmod .lua files decoder
-
 [![build](https://img.shields.io/badge/build-passing-green.svg?style=for-the-badge)](https://github.com/r3t4rd/GLuaDecode)
 [![netver](https://img.shields.io/badge/.NET_version-4.5-38bbff.svg?style=for-the-badge)](https://github.com/r3t4rd/GLuaDecode)
 [![platform](https://img.shields.io/badge/platform-Windows-ff3875.svg?style=for-the-badge)](https://github.com/r3t4rd/GLuaDecode)
-
 GLuaDecode is a simple C # app to decode, encode, obfuscate Garry's mod .lua files. 
 
 ### Features:
@@ -17,7 +14,6 @@ GLuaDecode is a simple C # app to decode, encode, obfuscate Garry's mod .lua fil
 ### What does decode and encode do?
 GLuaDecode able to decode LZMA compressed Garry's mod .lua cache.
 Btw, it able to encode it too.
-
 
 ### What obfuscator does?
 Transform your original .lua translate your code.
