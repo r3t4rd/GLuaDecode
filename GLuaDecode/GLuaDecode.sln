@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLuaDecode", "GLuaDecode.csproj", "{B5523A20-E31A-4E80-A86F-0110318F8E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5523A20-E31A-4E80-A86F-0110318F8E66}.Debug|x86.ActiveCfg = Debug|x86
+		{B5523A20-E31A-4E80-A86F-0110318F8E66}.Debug|x86.Build.0 = Debug|x86
+		{B5523A20-E31A-4E80-A86F-0110318F8E66}.Release|x86.ActiveCfg = Release|x86
+		{B5523A20-E31A-4E80-A86F-0110318F8E66}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B194A19-5954-4EA9-9D80-9E2AE2604D1E}
+	EndGlobalSection
+EndGlobal
